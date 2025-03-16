@@ -1,2 +1,4 @@
 # hello-world
-first repos
+
+some info bout me
+
